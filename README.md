@@ -5,9 +5,13 @@
 
 Warteschlangenvarianten:
 
+
 MMnWarteschlangensystem: Besitzt unendlich viele Warteschlangenplätze
+
 MMnVerlustsystem: Besitzt keine Warteschlangenplätze, zusätzliche Nutzer werden also blockiert
+
 MMnL Hybridsystem: Besitzt begrenzt viele Warteschlangenplätze, zusätzliche Nutzer werden blockiert
+
 MMn Hybridsystem: Besitzt begrenzt viele Warteschlangenplätze,  zusätzliche Nutzer werden nicht blockiert sondern trotzdem angereiht
 
 
