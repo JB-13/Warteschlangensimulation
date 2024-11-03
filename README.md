@@ -2,6 +2,7 @@
 2. Um die Simulation zu starten müssen Sie auf die Test...Grafik Klasse gehen und diese ausführen.
 
 
+
 Warteschlangenvarianten:
 
 MMnWarteschlangensystem: Besitzt unendlich viele Warteschlangenplätze
