@@ -1,5 +1,5 @@
-Um die jeweilige Simulation auszuwählen müssen Sie auf den "Systeme" Ordner gehen, dort können Sie dann die gewünschte Warteschlangensimulation auswählen.
-Um die Simulation zu starten müssen Sie auf die Test...Grafik Klasse gehen und diese ausführen.
+1. Um die jeweilige Simulation auszuwählen müssen Sie auf den "Systeme" Ordner gehen, dort können Sie dann die gewünschte Warteschlangensimulation auswählen.
+2. Um die Simulation zu starten müssen Sie auf die Test...Grafik Klasse gehen und diese ausführen.
 
 
 
@@ -13,7 +13,6 @@ MMnVerlustsystem: Besitzt keine Warteschlangenplätze, zusätzliche Nutzer werde
 MMnL Hybridsystem: Besitzt begrenzt viele Warteschlangenplätze, zusätzliche Nutzer werden blockiert
 
 MMn Hybridsystem: Besitzt begrenzt viele Warteschlangenplätze,  zusätzliche Nutzer werden nicht blockiert sondern trotzdem angereiht
-
 
 
 Faktoren und ihre Bedeutungen:
