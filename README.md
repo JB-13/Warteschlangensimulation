@@ -1,9 +1,10 @@
+## Schritte zum Starten des Simulationsfensters
 1. Um die jeweilige Simulation auszuwählen müssen Sie auf den "Systeme" Ordner gehen, dort können Sie dann die gewünschte Warteschlangensimulation auswählen.
 2. Um die Simulation zu starten müssen Sie auf die Test...Grafik Klasse gehen und diese ausführen.
 
 
 
-Warteschlangenvarianten:
+## Warteschlangenvarianten:
 
 
 MMnWarteschlangensystem: Besitzt unendlich viele Warteschlangenplätze
@@ -15,7 +16,7 @@ MMnL Hybridsystem: Besitzt begrenzt viele Warteschlangenplätze, zusätzliche Nu
 MMn Hybridsystem: Besitzt begrenzt viele Warteschlangenplätze,  zusätzliche Nutzer werden nicht blockiert sondern trotzdem angereiht
 
 
-Faktoren und ihre Bedeutungen:
+## Faktoren und ihre Bedeutungen:
 
 
 Ankunftsrate: Wie viele Personen im Zeitraum eintreffen
