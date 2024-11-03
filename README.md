@@ -1,13 +1,9 @@
-1. Um die jeweilige Simulation auszuwählen müssen Sie auf den "Systeme" Ordner gehen, dort können Sie dann die gewünschte Warteschlangensimulation auswählen.
-2. Um die Simulation zu starten müssen Sie auf die Test...Grafik Klasse gehen und diese ausführen.
-
-
+Um die jeweilige Simulation auszuwählen müssen Sie auf den "Systeme" Ordner gehen, dort können Sie dann die gewünschte Warteschlangensimulation auswählen.
+Um die Simulation zu starten müssen Sie auf die Test...Grafik Klasse gehen und diese ausführen.
 
 
 
 Warteschlangenvarianten:
-
-
 
 
 MMnWarteschlangensystem: Besitzt unendlich viele Warteschlangenplätze
@@ -20,15 +16,15 @@ MMn Hybridsystem: Besitzt begrenzt viele Warteschlangenplätze,  zusätzliche Nu
 
 
 
-
-
-
 Faktoren und ihre Bedeutungen:
 
 
-
 Ankunftsrate: Wie viele Personen im Zeitraum eintreffen
+
 Bedienrate: Wie viele Personen im Zeitraum bedient werden können
+
 Anzahl Bedieneinheiten: Wie viele Einheiten es gibt in der Personen bedient werden können
+
 Abbruch-Genauigkeit: Je höher die Abbruch-Genauigkeit umso höher die Simulations-Genauigkeit
+
 MaxWarteschlange: Wie viele Warteschlangenplätze es maximal gibt
