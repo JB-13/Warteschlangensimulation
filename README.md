@@ -3,7 +3,11 @@
 
 
 
+
+
 Warteschlangenvarianten:
+
+
 
 
 MMnWarteschlangensystem: Besitzt unendlich viele Warteschlangenplätze
@@ -17,7 +21,11 @@ MMn Hybridsystem: Besitzt begrenzt viele Warteschlangenplätze,  zusätzliche Nu
 
 
 
+
+
 Faktoren und ihre Bedeutungen:
+
+
 
 Ankunftsrate: Wie viele Personen im Zeitraum eintreffen
 Bedienrate: Wie viele Personen im Zeitraum bedient werden können
